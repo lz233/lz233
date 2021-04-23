@@ -1,9 +1,11 @@
 # Hi there 👋
 
-<div align="right">
-<img src="https://github-readme-stats.vercel.app/api?username=lz233&show_icons=true&icon_color=eed0d2&text_color=24292e&bg_color=ffffff&title_color=eed0d2&hide_title=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lz233&layout=compact&icon_color=eed0d2&text_color=24292e&bg_color=ffffff&title_color=eed0d2&hide_title=true" />
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 I'm a senior high school student, like doing things for fun.
 
