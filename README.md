@@ -2,7 +2,7 @@
 
 <img align="right">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lz233&show_icons=true&icon_color=eed0d2&text_color=24292e&bg_color=ffffff&title_color=eed0d2&hide_title=true" />
-<img style="width: 100%; height: 100px; max-height: 153px; min-height: 153px">
+<img style="width: 100%; height: 100px">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lz233&layout=compact&icon_color=eed0d2&text_color=24292e&bg_color=ffffff&title_color=eed0d2&hide_title=true" />
 </img>
 
