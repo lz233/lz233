@@ -13,6 +13,8 @@ I'm a senior high school student, like doing things for fun.
 
 ✅ ⁠ ⁢⁣⁡⁠ Python
 
+✅ ⁠ ⁢⁣⁡⁠ Visual Basic
+
 ## 📫 Reach me
 
 - Twitter: [@lz__233](https://twitter.com/lz__233)
