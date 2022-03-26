@@ -7,7 +7,7 @@
 
 I'm a senior high school student, like doing things for fun.
 
-## ⌨️ Worked language
+## ⌨️ Working language
 
 ✅ ⁠ ⁢⁣⁡⁠ Java / Kotlin
 
