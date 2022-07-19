@@ -7,7 +7,7 @@
 
 ## About me
 
-I'm a CS undergraduate student, like doing things for fun.
+I'm an CS undergraduate student, like doing things for fun.
 
 ## ⌨️ Working language
 
