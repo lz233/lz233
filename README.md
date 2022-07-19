@@ -5,15 +5,17 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lz233&layout=compact&icon_color=eed0d2&text_color=24292e&bg_color=ffffff&title_color=eed0d2&hide_title=true" />
 </div>
 
+## About me
+
 I'm a CS undergraduate student, like doing things for fun.
 
 ## ⌨️ Working language
 
-✅ ⁠ ⁢⁣⁡⁠ Java / Kotlin
+- [x] Java / Kotlin
 
-✅ ⁠ ⁢⁣⁡⁠ Python
+- [x] Python
 
-✅ ⁠ ⁢⁣⁡⁠ Visual Basic
+- [x] Visual Basic
 
 ## 📫 Reach me
 
