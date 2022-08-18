@@ -7,7 +7,7 @@
 
 ## About me
 
-I'm an undergraduate student, like doing things for fun.
+I'm dalao!
 
 ## ⌨️ Working language
 
