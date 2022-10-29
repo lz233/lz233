@@ -20,8 +20,9 @@ I'm an undergraduate student, like doing things for fun.
 ## 📫 Reach me
 
 - Twitter: [@lz__233](https://twitter.com/lz__233)
+- Mastodon: [@lz233](https://mastodon.social/@lz233)
 - Telegram: [lz233](https://t.me/lz233)
-- Blog: [lz233.ac.cn](https://lz233.ac.cn/)
+- Blog: [lz233.ac.cn](https://lz233.ac.cn)
 - Email: [ohayou@lz233.ac.cn](mailto:ohayou@lz233.ac.cn)
 
 ## 👀 Some cool stuff to look into
