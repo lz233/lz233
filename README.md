@@ -12,10 +12,9 @@ I'm an undergraduate student, like doing things for fun.
 ## ⌨️ Working language
 
 - [x] Java / Kotlin
-
-- [x] Python
-
 - [x] Visual Basic
+- [x] Python
+- [x] C++
 
 ## 📫 Reach me
 
