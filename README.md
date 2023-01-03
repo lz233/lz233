@@ -1,4 +1,4 @@
-# Hi there 😶
+# Hi there 👀
 
 <div align="right">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=lz233&show_icons=true&count_private=true&icon_color=eed0d2&text_color=24292e&bg_color=ffffff&title_color=eed0d2&hide_title=true" />
@@ -6,8 +6,8 @@
 </div>
 
 ## About me
-
-I'm an undergraduate student, like doing things for fun.
+ 
+I'm an undergraduate student at XJTLU, currently interest in machine learning and Android development.
 
 ## ⌨️ Working language
 
@@ -24,6 +24,6 @@ I'm an undergraduate student, like doing things for fun.
 - Blog: [lz233.ac.cn](https://lz233.ac.cn)
 - Email: [ohayou@lz233.ac.cn](mailto:ohayou@lz233.ac.cn)
 
-## 👀 Some cool stuff to look into
+## 🏁 Some cool stuff to look into
 
 Have a look at pinned projects below.
