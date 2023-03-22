@@ -7,7 +7,7 @@
 
 ## About me
  
-I'm an undergraduate student at XJTLU, currently interest in machine learning and Android development.
+ICS B.Sc.@XJTLU, currently interest in machine learning and Android development.
 
 ## ⌨️ Working language
 
