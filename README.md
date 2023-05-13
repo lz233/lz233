@@ -18,6 +18,7 @@ B.Sc. ICS@XJTLU, currently interest in machine learning and Android development.
 
 ## 📫 Reach me
 
+- Overview: [Bento](https://bento.me/lz233)
 - Twitter: [@lz__233](https://twitter.com/lz__233)
 - Mastodon: [@lz233](https://mastodon.social/@lz233)
 - Telegram: [lz233](https://t.me/lz233)
