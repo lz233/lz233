@@ -7,7 +7,7 @@
 
 ## About me
  
-ICS B.Sc.@XJTLU, currently interest in machine learning and Android development.
+B.Sc. ICS@XJTLU, currently interest in machine learning and Android development.
 
 ## ⌨️ Working language
 
