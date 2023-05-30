@@ -7,7 +7,7 @@
 
 ## About me
  
-Information and Computer Science B.Sc., currently interest in machine learning and Android development.
+Major in Information and Computer Science B.Sc., currently interest in machine learning and Android development.
 
 ## ⌨️ Working language
 
