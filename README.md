@@ -17,12 +17,11 @@ Major in Information and Computer Science B.Sc., currently interest in machine l
 
 ## 📫 Reach me
 
-- Overview: [Bento](https://bento.me/lz233)
 - Twitter: [@lz__233](https://twitter.com/lz__233)
 - Mastodon: [@lz233](https://mastodon.social/@lz233)
 - Telegram: [lz233](https://t.me/lz233)
-- Blog: [lz233.ac.cn](https://lz233.ac.cn)
-- Email: [ohayou@lz233.ac.cn](mailto:ohayou@lz233.ac.cn)
+- Blog: [with.fish](https://with.fish)
+- Email: [keep@with.fish](mailto:keep@with.fish)
 
 ## 🏁 Some cool stuff to look into
 
