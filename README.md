@@ -15,14 +15,6 @@ Major in Information and Computer Science B.Sc., currently interest in machine l
 - [x] Python
 - [x] C++
 
-## 📫 Reach me
-
-- Twitter: [@lz__233](https://twitter.com/lz__233)
-- Mastodon: [@lz233](https://mastodon.social/@lz233)
-- Telegram: [lz233](https://t.me/lz233)
-- Blog: [with.fish](https://with.fish)
-- Email: [keep@with.fish](mailto:keep@with.fish)
-
 ## 🏁 Some cool stuff to look into
 
 Have a look at pinned projects below.
